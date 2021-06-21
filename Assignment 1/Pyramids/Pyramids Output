@@ -1,0 +1,67 @@
+run:
+#1 Djoser - Step Pyramid of Djoser - Saqqara - 60.0
+#2 Sekhemkhet - Buried Pyramid - Saqqara - 70.0
+#3 Khaba (?) - Layer Pyramid - Zawyet el'Aryan - 40.0
+#4 Huni - Pyramid Lepsius I - Abu Rawash - 145.0
+#5 Huni (?) - Pyramid of Athribis - Athribis - 16.0
+#6 Huni (?) - Pyramid of Elephantine - Elephantine - 10.5
+#7 Huni (?) - Edfu South Pyramid - Edfu - 12.5
+#8 Huni (?) - Al Kula Pyramid - Hierakonpolis - 12.0
+#9 Huni (?) - Pyramid of Naqada (Pyramid of Ombos) - Naqada - 14.0
+#10 Huni (?) - Pyramid of Sinki - Abydos - 12.5
+#11 Huni (?) - Pyramid of Zawyet el-Maiyitin - Al-Minya - 17.0
+#12 Sneferu - Pyramid of Seila - Seila - 6.8
+#13 Sneferu - Pyramid of Meidum - Meidum - 92.0
+#14 Sneferu - Bent Pyramid - Dahshur - 105.0
+#15 Sneferu - Red Pyramid (North Pyramid) - Dahshur - 105.0
+#16 Hetepheres I - Pyramid G1-a - Giza - 30.25
+#17 Meritites I - Pyramid G1-b - Giza - 30.0
+#18 Henutsen - Pyramid G1-c - Giza - 29.6
+#19 Khufu - Pyramid G1-d - Giza - 14.0
+#20 Khufu - The Great Pyramid of Giza - Giza - 146.6
+#21 Djedefre - Pyramid of Djedefre - Abu Rawash - 67.0
+#22 Bikheris (?) - Unfinished Northern Pyramid of Zawyet el'Aryan - Zawyet el'Aryan - 0.0
+#23 Khafra - Pyramid of Khafre - Giza - 143.5
+#24 Menkaure - Pyramid of Menkaure - Giza - 65.5
+#25 Menkaure - Pyramid G-3c (western) - Giza - 21.0
+#26 Menkaure - Pyramid G-3b (middle) - Giza - 21.0
+#27 Menkaure - Pyramid G-3a (eastern) - Giza - 28.3
+#28 Shepseskaf - Mastabat al-Fir'aun - Giza - 18.0
+#29 Khentkawes - Step tomb of Khentkaus I - Giza - 17.5
+#30 Menkauhor (?) - Pyramid Lepsius L - Dahshur - 0.0
+#31 Userkaf - Pyramid of Userkaf - Saqqara - 49.0
+#32 Neferhetepes  - Pyramid of Neferhetepes (wife of Userkaf) - Saqqara - 17.0
+#33 Sahure - Pyramid of Sahure - Abusir - 47.0
+#34 Neferirkare Kakai - Pyramid of Neferirkare - Abusir - 52.0
+#35 Neferefre - Pyramid of Neferefre - Abusir - 0.0
+#36 Khentkawes II - Pyramid of Queen Khentkawes II - Abusir - 16.0
+#37 Shepseskare (?) - Unfinished pyramid of North Abusir - Abusir - 0.0
+#38 Nyuserre Ini - Pyramid of Nyuserre - Abusir - 51.68
+#39 Menkauhor Kaiu - Headless Pyramid - Saqqara - 52.5
+#40 Djedkare Isesi - Pyramid of Djedkare-Isesi - South Saqqara - 52.5
+#41 Unas - Pyramid of Unas - North Saqqara - 43.0
+#42 Teti - Pyramid of Teti - North Saqqara - 52.5
+#43 Pepi I - Pyramid of Pepi I - South Saqqara - 52.5
+#44 Merenre - Pyramid of Merenre - South Saqqara - 52.5
+#45 Pepi II - Pyramid of Pepi II - South Saqqara - 52.4
+#46 Qakare Ibi - Pyramid of Ibi - South Saqqara - 21.0
+#47 Khui - Pyramid of Khui - Dara - 15.0
+#48 Amenemhat I - Pyramid of Amenemhet I - Lisht - 55.0
+#49 Senusret I - Pyramid of Senusret I - Lisht - 61.25
+#50 Amenemhat II - White Pyramid - Dahshur - 84.0
+#51 Senusret II - Pyramid of Senusret II - El-Lahun - 48.6
+#52 Senusret III - Pyramid of Senusret III - Dahshur - 63.0
+#53 Amenemhat III - Black Pyramid - Dahshur - 75.0
+#54 Amenemhat III - Pyramid of Hawara - Hawara - 58.0
+#55 Amenemhat IV (?) - Southern Mazghuna pyramid - Dahshur - 0.0
+#56 Sobekneferu (?) - Northern Mazghuna pyramid - Dahshur - 0.0
+#57 Ameny Qemau - Pyramid of Ameny Qemau - Dahshur - 35.0
+#58 Khendjer - Pyramid of Khendjer - South Saqqara - 37.35
+#59 Weserkhau (?) - Southern South Saqqara pyramid - South Saqqara - 0.0
+#60 Neferhotep I - Tomb S9 - Abydos - 0.0
+#61 Sobekhotep IV - Tomb S10 - Abydos - 0.0
+#62 Ahmose I - Pyramid of Ahmose - Abydos - 40.0
+
+Pyramids Printed Successfully !!!
+
+BUILD SUCCESSFUL (total time: 0 seconds)
